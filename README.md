@@ -4,7 +4,8 @@
 
 ## 模型列表
 按字母排序：
-1. [x] AdaBoost
-
+- [x] [AdaBoost](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/adaboost)
+- [] Bagging
+- [x] Best Subset Selection 
 
 ## 数据
