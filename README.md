@@ -14,5 +14,9 @@
 - [x] [L2Boosting](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/l2boosting)
 - [x] [Lasso Regression](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/lasso-regression)
 - [x] [Least Absolute Deviation Regression](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/least-absolute-deviation-regression)
+- [x] [Least Angle Regression](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/least-angle-regression)
+- [x] [Linear Regression](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/linear-regression)
+- [x] [Logistic Regression](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/logistic_regression)
+- [x] [LogitBoost](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/logitboost)
 
 ## 数据
