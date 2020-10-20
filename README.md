@@ -20,3 +20,8 @@
 - [x] [LogitBoost](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/logitboost)
 
 ## 数据
+
+
+## 计划
+- 增加合成的混合3类数据
+- 增加贝叶斯方法
