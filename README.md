@@ -19,6 +19,11 @@
 - [x] [Linear Regression](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/linear-regression)
 - [x] [Logistic Regression](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/logistic_regression)
 - [x] [LogitBoost](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/logitboost)
+- [ ] [Nystroem Approximation](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/blob/main/notebooks/models/nystroem-approximation/nystroem_approximation.ipynb)
+- [ ] [Orthogonal Matching Pursuit](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/orthogonal_matching_pursuit)
+- [x] [Quadratic Disciminant Analysis](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/quadratic-disciminant-analysis)
+- [ ] [Random Fourier Feature](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/random-fourier-feature)
+
 
 ## 数据
 
