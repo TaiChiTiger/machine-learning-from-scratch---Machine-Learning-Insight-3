@@ -3,7 +3,9 @@
 
 
 
-## 模型列表
+## 模型
+模型文件命名规则：模型名+任务+（API）+数据集名
+其中“任务”可以是回归、分类、聚类和降维等，“API”是可选的，如果没有，则表示模型是从头编写的；如果有，一般是sk，代表scikit-learn，也可以是pytorch和tensorflow
 按字母排序：
 - [x] [AdaBoost](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/adaboost)
 - [ ] [Bagging](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/bagging)
