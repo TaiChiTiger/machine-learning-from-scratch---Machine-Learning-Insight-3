@@ -1,9 +1,8 @@
-# 从头编写机器学习模型-机器学习洞察3
-# Machine Learning From Scratch - Machine Learning Insight 3
+# 从头编写机器学习模型-机器学习洞察3 （Machine Learning From Scratch - Machine Learning Insight 3）
 
 
 
-## 模型
+## 模型 （Models）
 模型文件命名规则：模型名+任务名+（算法名/API）+数据集名
 
 其中：
@@ -11,7 +10,7 @@
 - “（算法名/API）”分为三种情况：
   1. 如果为空，则表示模型是使用本身特有的算法从头编写的
   2. 如果有算法名，如"with_gradient_descent"，则表示模型是使用该算法从头编写的
-  3. 如果有API名，一般是sk，代表scikit-learn，也可以是pytorch和tensorflow，则表示模型是调用相应的API完成的任务，这是为了验证从头编写模型所得的结果，或者熟悉API使用
+  3. 如果有API名，一般是sk，代表scikit-learn，也可以是pytorch和tensorflow，则表示模型是调用相应的API完成的任务，这是为了验证从头编写模型所得的结果，或者熟悉API的使用
 - “数据集名”：表示用模型实现该任务所用的数据集。一般是合成数据集，如“nonlin1d”，表示非线性一维数据集，又如“nonlin2d2cls”表示非线性二维两类数据集。也可以是一些简单的数据集，如“prostate”。“数据集名”要与“任务名”结合起来才有意义
 
 按字母排序：
@@ -35,18 +34,20 @@
 - [ ] [Random Fourier Feature](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/random-fourier-feature)
 
 
-## 数据
+## 数据 （Data）
 回归：
-- 1维线性数据集
-- 1维非线性数据集
-  训练集：200个样本；测试集100个样本
+- 1维线性数据集：200个样本
+- 1维线性数据集+异常点：200个样本+5个异常点
+- 1维非线性数据集：训练集：200个样本；测试集：100个样本
+  训练集：200个样本；测试集：100个样本
   
  分类：
- - 1维线性数据集
- - 2维线性数据集
- - 2维非线性（混合）数据集
+ - 1维两类线性数据集：20个样本
+ - 2维两类线性数据集：200个样本
+ - 2维两类非线性（混合）数据集
+ - 3维两类线性数据集：训练集：375个样本；测试集：125个样本
 
 
-## 计划
+## 计划 （Future Plans）
 - 增加合成的混合3类数据
 - 增加贝叶斯方法
