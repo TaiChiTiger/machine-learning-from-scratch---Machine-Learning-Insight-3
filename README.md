@@ -4,9 +4,9 @@
 
 
 ## 模型
-模型文件命名规则：模型名+任务+（API）+数据集名
+模型文件命名规则：模型名+任务+（算法名/API）+数据集名
 
-其中“任务”可以是回归、分类、聚类和降维等，“API”是可选的，如果没有，则表示模型是从头编写的；如果有，一般是sk，代表scikit-learn，也可以是pytorch和tensorflow
+其中“任务”可以是回归、分类、聚类和降维等，“（算法名/API）”分为三种情况：1. 如果为空，则表示模型是使用本身特有的算法从头编写的；2. 如果有算法名，如"with_gradient_descent"，则表示模型是使用该算法从头编写的；3. 如果有API名，一般是sk，代表scikit-learn，也可以是pytorch和tensorflow，则表示模型是调用相应的API完成的任务，这是为了验证从头编写模型所得的结果，或者熟悉API使用。
 
 按字母排序：
 - [x] [AdaBoost](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/adaboost)
@@ -30,6 +30,15 @@
 
 
 ## 数据
+回归：
+- 1维线性数据集
+- 1维非线性数据集
+  训练集：200个样本；测试集100个样本
+  
+ 分类：
+ - 1维线性数据集
+ - 2维线性数据集
+ - 2维非线性（混合）数据集
 
 
 ## 计划
