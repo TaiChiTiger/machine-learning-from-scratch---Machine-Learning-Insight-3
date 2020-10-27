@@ -13,13 +13,15 @@
   3. 如果有API名，一般是sk，代表scikit-learn，也可以是pytorch和tensorflow，则表示模型是调用相应的API完成的任务，这是为了验证从头编写模型所得的结果，或者熟悉API的使用
 - “数据集名”：表示用模型实现该任务所用的数据集。一般是合成数据集，如“nonlin1d”，表示非线性一维数据集，又如“nonlin2d2cls”表示非线性二维两类数据集。也可以是一些简单的数据集，如“prostate”。“数据集名”要与“任务名”结合起来才有意义
 
-按字母排序：
+按字母排序，[x] 表示已开箱：
 - [x] [AdaBoost](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/adaboost)
 - [ ] [Bagging](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/bagging)
 - [x] [Best Subset Selection](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/best-subset-selection) 
 - [x] [Cubic Splines](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/cubic-splines)
 - [x] [Fisher Disciminant Analysis](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/fisher-disciminant-analysis)
 - [x] [Forward Stagewise Regression](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/forward-stagewise-regression)
+- [x] [Gradient Boosting](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/gradient-boosting)
+- [ ] [Huber Robust Regression](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/huber-robust-regression)
 - [x] [Kernel Ridge Regression](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/kernel_ridge_regression)
 - [x] [L2Boosting](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/l2boosting)
 - [x] [Lasso Regression](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/lasso-regression)
