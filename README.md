@@ -18,6 +18,7 @@
 - [ ] [Bagging](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/bagging)
 - [x] [Best Subset Selection](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/best-subset-selection) 
 - [x] [Cubic Splines](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/cubic-splines)
+- [x] [Decision Tree](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/decision-tree)
 - [x] [Fisher Disciminant Analysis](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/fisher-disciminant-analysis)
 - [x] [Forward Stagewise Regression](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/forward-stagewise-regression)
 - [x] [Gradient Boosting](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/gradient-boosting)
@@ -32,9 +33,11 @@
 - [x] [LogitBoost](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/logitboost)
 - [ ] [Nystroem Approximation](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/blob/main/notebooks/models/nystroem-approximation/nystroem_approximation.ipynb)
 - [ ] [Orthogonal Matching Pursuit](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/orthogonal_matching_pursuit)
+- [x] [Piecewise Polynomials](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/piecewise-polynomials)
+- [x] [Principal Components Regression](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/principal-components-regression)
 - [x] [Quadratic Disciminant Analysis](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/quadratic-disciminant-analysis)
 - [ ] [Random Fourier Feature](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/random-fourier-feature)
-
+- [x] [Ridge Regression](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/ridge-regression)
 
 ## 数据 （Data）
 回归：
