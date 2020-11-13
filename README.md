@@ -15,7 +15,8 @@
 
 按字母排序，√表示已开箱：
 - [x] [AdaBoost](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/adaboost)
-- [ ] [Bagging](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/bagging)
+- [ ] [Backward Elimination](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/backward_elimination)
+- [x] [Bagging](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/bagging)
 - [x] [Best Subset Selection](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/best-subset-selection) 
 - [x] [Cubic Splines](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/cubic-splines)
 - [x] [Decision Tree](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3/tree/main/notebooks/models/decision-tree)
